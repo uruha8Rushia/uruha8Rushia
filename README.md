@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I'm here to learn, build, and innovate
+- ⚡ Fun fact: My profile is my oshi Uruha Rushia, the graduated Hololive 3rd Gen
+
+
 <!--
 **uruha8Rushia/uruha8Rushia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
