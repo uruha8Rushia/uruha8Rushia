@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I'm here to learn, build, and innovate
-- ⚡ Fun fact: My profile is my oshi Uruha Rushia, the graduated Hololive 3rd Gen
+- ⚡ Fun fact: My profile is my oshi Uruha Rushia, the graduated Hololive 3rd Gen member
 
 
 <!--
